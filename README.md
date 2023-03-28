@@ -1,4 +1,6 @@
 ### Hi World 👋! I am Ahranna
+Welcome to my GitHub page! Here you can find projects I did as a Front-End, Back-End and Full-Stack developer👩‍💻
+
 
 # 💫 About Me:
 📍 I'm Brazilian 🇧🇷 from Rio de Janeiro<br>💻 I am currently finishing the Full Stack development course at Driven Education<br>
