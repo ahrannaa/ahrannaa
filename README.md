@@ -3,7 +3,7 @@ Welcome to my GitHub page! Here you can find projects I did as a Front-End, Back
 
 
 # 💫 About Me:
-📍 I'm Brazilian 🇧🇷 from Rio de Janeiro<br>💻 I am currently finishing the Full Stack development course at Driven Education<br>
+📍 I'm Brazilian 🇧🇷 from Rio de Janeiro<br>💻 I am a FullStack Developer<br>
 
 
 ## 🌐 Socials:
